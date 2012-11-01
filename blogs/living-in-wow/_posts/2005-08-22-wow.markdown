@@ -1,0 +1,12 @@
+---
+comments: false
+date: 2005-08-22 15:34:31
+layout: post
+slug: wow
+title: WOW
+wordpress_id: 506
+categories:
+- Orte
+---
+
+[![Sonnenuntergang im Großen Meer](http://photos29.flickr.com/36114968_4e39f05977.jpg)](http://www.flickr.com/photos/walsweer/36114968/)

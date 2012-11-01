@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2006-01-04 14:58:41
+layout: post
+slug: neues-aus-19
+title: Neues aus 1.9
+wordpress_id: 980
+categories:
+- Items
+- News
+tags:
+- Items
+- patch
+- world-of-warcraft
+---
+
+Wer wie ich auf der Arbeit sitzt kann nebenbei immer mal wieder auf [http://thottbot.com/?l=latest](http://thottbot.com/?l=latest) kiebitzen gehen, so ein wenig als Vorfreude....

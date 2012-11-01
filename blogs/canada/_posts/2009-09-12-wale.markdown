@@ -1,0 +1,12 @@
+---
+comments: true
+date: 2009-09-12 01:26:39
+layout: post
+slug: wale
+title: Wale!
+wordpress_id: 132
+categories:
+- travel.twitter
+---
+
+Wale!

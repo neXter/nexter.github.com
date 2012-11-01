@@ -1,6 +1,7 @@
 ---
 layout: post
-category : blog
+category: blog
+title: Hello World
 ---
 
 Hello World!

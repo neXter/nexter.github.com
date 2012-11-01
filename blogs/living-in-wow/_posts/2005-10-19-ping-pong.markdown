@@ -1,0 +1,16 @@
+---
+comments: false
+date: 2005-10-19 10:30:13
+layout: post
+slug: ping-pong
+title: Ping ... Pong?
+wordpress_id: 728
+categories:
+- Mecker
+---
+
+Wie [Blizzard selbst schon eingestanden](http://forums-de.wow-europe.com/thread.aspx?fn=wow-general-de&t=393255) hat gibt es zur Zeit teilweise sehr arge Probleme was den Ping beim Spielen betrifft. So berichten viele Spieler von dauerhaften Lags im vierstelligen Bereich. Aus eigenen Beobachtungen der letzten Tage, v.a. während Raids konnten wir (auf Alexstrasza) beobachten, dass selbiger ab 22 Uhr schlagartig besser wird. Einiger (IT-affine) Mitspieler meinten, es könne daran liegen, dass zu dieser Uhrzeit der Provider, den Blizzard nutzt, evtl. sein Routing umschaltet um weniger benutzte bzw. günstigere (oder was auch immer) Verbindungknoten zu nutzen. 
+
+Es kann natürlich auch sein, dass alle bis 16-jährigen um diese Uhrzeit Besuch von ihrer Mutter bekommen, doch das halte ich für sehr unwahrscheinlich^^.
+
+Habt ihr so etwas auch beobachten können? Oder ganz andere Erfahrungen gemacht?

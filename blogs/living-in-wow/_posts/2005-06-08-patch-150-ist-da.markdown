@@ -1,0 +1,14 @@
+---
+comments: false
+date: 2005-06-08 18:30:26
+layout: post
+slug: patch-150-ist-da
+title: Patch 1.5.0 ist da!
+wordpress_id: 139
+categories:
+- OffTopic
+---
+
+Da aber der Blizzard-Download momentan nicht wirklich zu gebrauchen ist hier kurz ein Link ins offizielle [WoW-Europe](http://www.wow-europe.com/) [Forum](http://forums-de.wow-europe.com/) mit einer langen Liste von Mirrors...
+
+» [Mirror-Liste](http://forums-de.wow-europe.com/thread.aspx?fn=wow-general-de&t=202553&p=1&tmp=1)

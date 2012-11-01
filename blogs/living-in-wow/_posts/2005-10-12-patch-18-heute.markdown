@@ -1,0 +1,48 @@
+---
+comments: false
+date: 2005-10-12 11:14:11
+layout: post
+slug: patch-18-heute
+title: Patch 1.8 heute!
+wordpress_id: 705
+categories:
+- Links
+- News
+tags:
+- News
+- patch
+---
+
+Patch ist da und wie gewohnt sammeln wir hier heute im Laufe des Tages Mirror zum Laden der Patchdatei:
+
+**deutsche Version**
+[http://www.bwfan.de/WoW-1.7.1-to-1.8.0-deDE.exe](http://www.bwfan.de/WoW-1.7.1-to-1.8.0-deDE.exe)
+[http://rapidshare.de/files/6175226/WoW-1.7.1.4695-to-1.8.0-deDE-patch.exe.html](http://rapidshare.de/files/6175226/WoW-1.7.1.4695-to-1.8.0-deDE-patch.exe.html)
+[http://www.hardwareluxx.de/download.php?det=220](http://www.hardwareluxx.de/download.php?det=220)
+[http://www.gamesdesk.de/index.php?layout=show_downloads&did;=398](http://www.gamesdesk.de/index.php?layout=show_downloads&did=398)
+[http://illu.wooot.de/wooot/WoW-1.7.1.4695-to-1.8.0-deDE-patch.exe](http://illu.wooot.de/wooot/WoW-1.7.1.4695-to-1.8.0-deDE-patch.exe)
+[http://www.4players.de/4players.php/download_info/PC-CDROM/Download/44754.html](http://www.4players.de/4players.php/download_info/PC-CDROM/Download/44754.html)
+[http://inot.de/wow/WoW-1.7.1.4695-to-1.8.0-deDE-patch.exe](http://inot.de/wow/WoW-1.7.1.4695-to-1.8.0-deDE-patch.exe)
+[http://www.martialarts-clan.de/?module=downloadsdetail&downid;=28](http://www.martialarts-clan.de/?module=downloadsdetail&downid=28)
+[http://www.metus-mortis.de/index.php?option=com_weblinks&task;=view&catid;=38&id;=64](http://www.metus-mortis.de/index.php?option=com_weblinks&task=view&catid=38&id=64)
+
+**englische Version (GB)**
+[http://dl.galskap.org/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe](http://dl.galskap.org/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe)
+[http://www.h-anime.net/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe](http://www.h-anime.net/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe)
+[http://www.explod.net/files/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe](http://www.explod.net/files/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe)
+[http://crazy.mofo.nl/~redfox/divine/patches/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe](http://crazy.mofo.nl/~redfox/divine/patches/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe)
+[http://www.bwfan.de/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe](http://www.bwfan.de/WoW-1.7.1.4695-to-1.8.0-enGB-patch.exe)
+[http://www.hardwareluxx.de/download.php?det=220](http://www.hardwareluxx.de/download.php?det=220)
+
+**englische Version (US)**
+[http://www.hardwareluxx.de/download.php?det=220](http://www.hardwareluxx.de/download.php?det=220)
+
+**Prüfsummen (MD5)**
+deDE: 30F94BF0CB15542411058E653C09D2C2 
+
+Wie immer, keine Gewähr!
+
+
+*** Update ***
+"Die wöchentlichen Wartungsarbeiten sind in vollem Gange, müssen aber aufgrund von unerwartet aufgetretenen Problemen leider um ein paar Stunden verlängert werden. Voraussichtliches Ende ist 13:00 Uhr (Mittwoch Nachmittag - Pariser Zeit UTC/GMT+2)."
+Quelle: [offizielles Realm-Status Forum](http://forums-de.wow-europe.com/thread.aspx?fn=wow-server-status-de&t=278&p=1)

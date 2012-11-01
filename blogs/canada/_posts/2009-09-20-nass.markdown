@@ -1,0 +1,12 @@
+---
+comments: true
+date: 2009-09-20 19:30:43
+layout: post
+slug: nass
+title: Nass
+wordpress_id: 158
+categories:
+- travel.twitter
+---
+
+Nass
