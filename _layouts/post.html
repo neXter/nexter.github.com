@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+	<div id="content">
+		<div class="index-link">&#160; <a href="/"><small>&laquo; back to index</small></a></div>
+
+		<time>{{ page.date | date_to_long_string }}</time>
+		<section>
+			<div class="post contain">
+				<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+				{{ content }}
+			</div>
+		</section>
+
+	</div>

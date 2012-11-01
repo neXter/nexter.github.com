@@ -1,0 +1,11 @@
+permalink: /:categories/:year/:month/:day/:title 
+exclude: ["gitignore", ".rvmrc", ".rbenv-version", "README.md"]
+auto: true
+markdown: kramdown
+pygments: true
+production_url : http://pieter.cc
+paginate: 2
+
+kramdown:
+  coderay:
+    coderay_line_numbers: ''
