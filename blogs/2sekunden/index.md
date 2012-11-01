@@ -6,13 +6,13 @@ title: pieter.cc
 <div id="content">
 
 	<section>
-		<h2>Personal blog</h2>
-		Based on Movable Type
+		<h2>Personal blog: 2sekunden.net</h2>
+		Based on Expression Engine
 	</section>
 	<section>
-			<table>
-			{% for post in site.categories.old-blog-v3 %}
+		<table>
+			{% for post in site.categories.2sekunden %}
 			<tr><td><small>{{ post.date | date_to_long_string }}</small></td><td> &#160; <a href="{{ post.url }}">{{ post.title }}</a></td></tr>{% endfor %}
-			</table>
+		</table>
 	</section>
 </div>

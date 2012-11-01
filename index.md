@@ -13,12 +13,12 @@ title: pieter.cc
 	</section>
 	<section>
 		<table>
-			<h3>Old blog content</h3>
-			<tr><td><small>200x-200x</small></td><td> &#160; <a href="/blogs/canada/">Canada 2009</a> ({{ site.categories.canada | size }} Posts)</td></tr>
-			<tr><td><small>200x-200x</small></td><td> &#160; <a href="/blogs/living-in-wow/">Living in WoW Blog</a> ({{ site.categories.living-in-wow | size }} Posts)</td></tr>
-			<tr><td><small>200x-200x</small></td><td> &#160; <a href="/blogs/old-blog-v3/">Old personal blog (v3)</a> ({{ site.categories.old-blog-v3 | size }} Posts)</td></tr>
-			<tr><td><small>200x-200x</small></td><td> &#160; <a href="/blogs/old-blog-v2/">Old personal blog (v2)</a> ({{ site.categories.old-blog-v2 | size }} Posts)</td></tr>
-			<tr><td><small>200x-200x</small></td><td> &#160; <a href="/blogs/old-blog-v1/">Old personal blog (v1)</a> ({{ site.categories.old-blog-v1 | size }} Posts)</td></tr>
+			<h3>My old blogs...</h3>
+			<tr><td><small>2009</small></td><td> &#160; <a href="/blogs/canada/">Canada 2009</a> ({{ site.categories.canada | size }} Posts)</td></tr>
+			<tr><td><small>2005-2007</small></td><td> &#160; <a href="/blogs/living-in-wow/">Living in WoW Blog</a> ({{ site.categories.living-in-wow | size }} Posts)</td></tr>
+			<tr><td><small>2004-2007</small></td><td> &#160; <a href="/blogs/old-blog-v3/">2sekunden.net</a> ({{ site.categories.2sekunden | size }} Posts)</td></tr>
+			<tr><td><small>2003-2004</small></td><td> &#160; <a href="/blogs/old-blog-v2/">walsweer.de - misc2go Weblog</a> ({{ site.categories.old-blog-v2 | size }} Posts)</td></tr>
+			<tr><td><small>2002-2003</small></td><td> &#160; <a href="/blogs/old-blog-v1/">walsweer.de [v1]</a> ({{ site.categories.old-blog-v1 | size }} Posts)</td></tr>
 		</table>
 	</section>
 </div>
