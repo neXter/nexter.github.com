@@ -470,3 +470,8 @@ font-size:20px;
 	margin-bottom: 5px;
 	margin-top: 5px;
 }
+
+#social {
+	position: fixed;
+	bottom: 10px;
+}
