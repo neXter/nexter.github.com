@@ -14,7 +14,7 @@ title: pieter.cc
 	<section>
 		<table>
 			<h3>My old blogs...</h3>
-			<tr><td><small>2011</small></td><td> &#160; <a href="/blogs/tumblr/">blog.2sekunden.net</a> ({{ site.categories.tumblr | size }} Posts)</td></tr>
+			<tr><td><small>2011</small></td><td> &#160; <a href="/blogs/tumblr/">Tumblr - blog.2sekunden.net</a> ({{ site.categories.tumblr | size }} Posts)</td></tr>
 			<tr><td><small>2009</small></td><td> &#160; <a href="/blogs/canada/">Canada 2009</a> ({{ site.categories.canada | size }} Posts)</td></tr>
 			<tr><td><small>2005-2007</small></td><td> &#160; <a href="/blogs/living-in-wow/">Living in WoW Blog</a> ({{ site.categories.living-in-wow | size }} Posts)</td></tr>
 			<tr><td><small>2004-2007</small></td><td> &#160; <a href="/blogs/old-blog-v3/">2sekunden.net</a> ({{ site.categories.2sekunden | size }} Posts)</td></tr>
