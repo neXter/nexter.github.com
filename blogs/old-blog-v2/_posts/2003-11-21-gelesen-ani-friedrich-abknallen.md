@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: gelesen... Ani, Friedrich: Abknallen
+title: gelesen... Ani, Friedrich - Abknallen
 ---
 
 Ani, Friedrich: Abknallen (erschienen im Mai 2002)

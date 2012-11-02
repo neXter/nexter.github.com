@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: gelesen... McDonell, Nick: Zwölf
+title: gelesen... McDonell, Nick - Zwölf
 ---
 
 McDonell, Nick: Zwölf (erschienen im Februar 2003)
