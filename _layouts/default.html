@@ -16,6 +16,11 @@
 	<META HTTP-EQUIV="Cache-Control" CONTENT="no-store" />
 	<META HTTP-EQUIV="Expires" CONTENT="Tue, 01 Jan 1980 1:00:00 GMT">
 	<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+
+	{% if page.redirect %}
+	<!-- redirecting -->
+	<meta http-equiv="REFRESH" content="0;url=http://walsweer.me/{{ page.redirect }}"></HEAD>
+	{% endif %}
 </head>
 
 <body class="posts index">
@@ -25,14 +30,14 @@
 	<h2 style="font-weight: 400">I'm <span style="color:#369;">Pieter Walsweer</span>.</h2>
 	<p class="caption">I love building products.<br/>I'm a gamer, geek and a father.<br/>And I write here.</p>
 	<div id="social">
-		<a href="http://walsweer.me/twitter" ><img width="16" title="Twitter" src="/images/icons/twitter_alt.png"></a>
-		<a href="http://walsweer.me/facebook"><img width="16" title="Facebook" src="/images/icons/facebook.png"></a>
-		<a href="http://walsweer.me/+"       ><img width="16" title="Google+" src="/images/icons/google.png"></a>
-		<a href="http://walsweer.me/linkedin"><img width="16" title="LinkedIn" src="/images/icons/linkedin_alt.png"></a>
-		<a href="http://walsweer.me/xing"    ><img width="16" title="XING" src="/images/icons/xing.png"></a>
-		<a href="http://walsweer.me/flickr"  ><img width="16" title="Flickr" src="/images/icons/flickr.png"></a>
-		<a href="http://walsweer.me/github"  ><img width="16" title="GitHub" src="/images/icons/github_alt.png"></a>
-		<a href="http://walsweer.me/amazon"  ><img width="16" title="Amazon Wishlist" src="/images/icons/amazon.png"></a>
+		<a href="/redirect/twitter.html" ><img width="16" title="Twitter" src="/images/icons/twitter_alt.png"></a>
+		<a href="/redirect/facebook.html"><img width="16" title="Facebook" src="/images/icons/facebook.png"></a>
+		<a href="/redirect/+.html"       ><img width="16" title="Google+" src="/images/icons/google.png"></a>
+		<a href="/redirect/linkedin.html"><img width="16" title="LinkedIn" src="/images/icons/linkedin_alt.png"></a>
+		<a href="/redirect/xing.html"    ><img width="16" title="XING" src="/images/icons/xing.png"></a>
+		<a href="/redirect/flickr.html"  ><img width="16" title="Flickr" src="/images/icons/flickr.png"></a>
+		<a href="/redirect/github.html"  ><img width="16" title="GitHub" src="/images/icons/github_alt.png"></a>
+		<a href="/redirect/amazon.html"  ><img width="16" title="Amazon Wishlist" src="/images/icons/amazon.png"></a>
 	</div>
 </header>
 
