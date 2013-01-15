@@ -4,7 +4,7 @@ category: blog
 title: Out of Time - Sein Gegner ist die Zeit (Out of Time)
 ---
 
-![kino_out-of-time.jpg](kino_out-of-time.jpg)Thriller - USA 2003
+![kino_out-of-time.jpg](/images-blog/kino_out-of-time.jpg)Thriller - USA 2003
 
 114 Min. - Verleih: Universum (UIP)
 

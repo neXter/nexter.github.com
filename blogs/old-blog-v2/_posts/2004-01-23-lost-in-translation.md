@@ -4,7 +4,7 @@ category: blog
 title: Lost in Translation
 ---
 
-![kino_lost-in-translation.jpg](h ttp://walsweer.de/mt-archives/images/kino_lost-in-translation.jpg)Drama/Kom&ouml;die - USA 2003
+![kino_lost-in-translation.jpg](/images-blog/kino_lost-in-translation.jpg)Drama/Kom&ouml;die - USA 2003
 
 102 Min. - Verleih: Constantin
 
@@ -18,7 +18,7 @@ Start: 08.01.2004
   
 Lange nicht mehr so einen sch&ouml;nen Film gesehen. Endorphine in meinem K&ouml;rper, Freude und Wehmut zugleich, Ausgeglichenheit die bis in den n&auml;chsten Tag hinein angehalten hat.
 
-Sich erinnert gef&uuml;hlt ALMOST FAMOUS. Damals allein in einer Sp&auml;tvorstellung im [Kinopolis Paderborn](http://www.kin opolis.de/paderborn/) gewesen, laue Sommernacht, auf dem R&uuml;ckweg die Schuhe ausgezogen, die Stille der Nacht genossen, zu Hause Dido eingelegt, aufs Bett geschmissen und die Freude am Sein genossen.
+Sich erinnert gef&uuml;hlt ALMOST FAMOUS. Damals allein in einer Sp&auml;tvorstellung im [Kinopolis Paderborn](http://www.kinopolis.de/paderborn/) gewesen, laue Sommernacht, auf dem R&uuml;ckweg die Schuhe ausgezogen, die Stille der Nacht genossen, zu Hause Dido eingelegt, aufs Bett geschmissen und die Freude am Sein genossen.
 
 Dieses Mal einen Moment gegr&uuml;belt, was da wohl am Ende gesprochen wurde, aber gleich wieder aufgegeben, dieser Moment geh&ouml;rte ganz Charlotte und Bob.
 

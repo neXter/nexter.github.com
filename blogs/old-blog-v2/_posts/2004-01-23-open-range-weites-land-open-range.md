@@ -4,7 +4,7 @@ category: blog
 title: Open Range - Weites Land (Open Range)
 ---
 
-![kino_open-range.JPG](kino_open-range.JPG)Western - USA 2003
+![kino_open-range.JPG](/images-blog/kino_open-range.JPG)Western - USA 2003
 
 139 Min. - Verleih: Universum (UIP)
 
