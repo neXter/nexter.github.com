@@ -4,7 +4,7 @@ category: blog
 title: Der Einsatz (The Recruit)
 ---
 
-![kino_the-recruit.jpg](/images-blog/kino_the-recruit.jpg)Thriller - USA 2003
+![kino_the-recruit.jpg](/images-blog/old-blogs/kino_the-recruit.jpg)Thriller - USA 2003
 
 Regie: [Roger Donaldson](http://german.imdb.com/name/nm0002044/)
 

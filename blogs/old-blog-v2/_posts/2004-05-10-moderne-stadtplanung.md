@@ -4,7 +4,7 @@ category: blog
 title: Moderne Stadtplanung
 ---
 
-![IMG_2156.jpg](/images-blog/IMG_2156.jpg)
+![IMG_2156.jpg](/images-blog/old-blogs/IMG_2156.jpg)
 
 Da hart sich aber mal einer _richtig_ Gedanken bei der Planung gemacht...
 

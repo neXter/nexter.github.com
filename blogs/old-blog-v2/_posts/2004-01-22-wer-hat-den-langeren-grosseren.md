@@ -4,7 +4,7 @@ category: blog
 title: Wer hat den l&auml;ngeren gr&ouml;&szlig;eren...
 ---
 
-![kudamm_penisneid.jpg](/images-blog/kudamm_penisneid.jpg)
+![kudamm_penisneid.jpg](/images-blog/old-blogs/kudamm_penisneid.jpg)
 
 Wie war das mit den Handys und der Gr&ouml;&szlig;e? Penisneid?
 

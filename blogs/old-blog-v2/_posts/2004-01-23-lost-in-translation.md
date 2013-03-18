@@ -4,7 +4,7 @@ category: blog
 title: Lost in Translation
 ---
 
-![kino_lost-in-translation.jpg](/images-blog/kino_lost-in-translation.jpg)Drama/Kom&ouml;die - USA 2003
+![kino_lost-in-translation.jpg](/images-blog/old-blogs/kino_lost-in-translation.jpg)Drama/Kom&ouml;die - USA 2003
 
 102 Min. - Verleih: Constantin
 

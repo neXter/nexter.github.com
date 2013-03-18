@@ -4,7 +4,7 @@ category: blog
 title: Immer sch&ouml;n rechts bleiben...
 ---
 
-![supermarkt_usability.jpg](/images-blog/supermarkt_usability.jpg)
+![supermarkt_usability.jpg](/images-blog/old-blogs/supermarkt_usability.jpg)
 
 Darf ich hier nun rein oder nicht?
 

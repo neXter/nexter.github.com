@@ -4,7 +4,7 @@ category: blog
 title: B&auml;renbr&uuml;der (Brother Bear)
 ---
 
-![kino_brother-bear.jpg](/images-blog/kino_brother-bear.jpg)Zeichentrick - USA 2003
+![kino_brother-bear.jpg](/images-blog/old-blogs/kino_brother-bear.jpg)Zeichentrick - USA 2003
 
 85 Min. - Verleih: Buena Vista
 

@@ -6,7 +6,7 @@ title: Byte-Recycling
 
 Schon überall und nun auch bei mir:
 
-![oeko-arbeitsplatz.gif](/images-blog/oeko-arbeitsplatz.gif)
+![oeko-arbeitsplatz.gif](/images-blog/old-blogs/oeko-arbeitsplatz.gif)
 
 [via [contentschmiede](http://www.contentschmiede.de/weblog.php?itemid=504)]
 

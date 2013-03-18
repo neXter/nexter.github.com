@@ -4,7 +4,7 @@ category: blog
 title: Reiselekt&uuml;re
 ---
 
-![friends_poster.jpg](/images-blog/friends_poster.jpg)
+![friends_poster.jpg](/images-blog/old-blogs/friends_poster.jpg)
 
 &quot;Joey: (entering) Hey! You guys! Remember that audition I had a while ago and didn't get the part?
 

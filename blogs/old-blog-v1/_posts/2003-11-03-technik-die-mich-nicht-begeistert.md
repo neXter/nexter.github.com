@@ -4,7 +4,7 @@ category: blog
 title: Technik, die mich nicht begeistert...
 ---
 
-![](/images-blog/IMG_1786.jpg)
+![](/images-blog/old-blogs/IMG_1786.jpg)
 
 * Wann? 28.10.2003
 * Wo? Internetterminal des Studentenwerkes Berlin im Foyer der Mensa Nord.

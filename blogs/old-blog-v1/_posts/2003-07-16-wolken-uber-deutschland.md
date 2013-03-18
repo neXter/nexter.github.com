@@ -4,7 +4,7 @@ category: blog
 title: Wolken über Deutschland
 ---
 
-![Blog post image](/images-blog/IMG_1402.JPG)
+![Blog post image](/images-blog/old-blogs/IMG_1402.JPG)
 
 gesehen: 12.07.2003
 

@@ -4,7 +4,7 @@ category: blog
 title: Littfass&auml;ule
 ---
 
-![IMG_2173.jpg](/images-blog/IMG_2173.jpg)
+![IMG_2173.jpg](/images-blog/old-blogs/IMG_2173.jpg)
 
 Schick, schick. Mal was anderes...
 

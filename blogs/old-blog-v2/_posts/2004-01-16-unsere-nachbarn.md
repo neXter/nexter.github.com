@@ -4,6 +4,6 @@ category: blog
 title: Unsere Nachbarn
 ---
 
-![klingelschild.jpg](/images-blog/klingelschild.jpg)
+![klingelschild.jpg](/images-blog/old-blogs/klingelschild.jpg)
 
 Na, wenn das mal zu keinen Missverst&auml;ndnissen f&uuml;hrt...

@@ -4,7 +4,7 @@ category: blog
 title: Armes Deutschland
 ---
 
-![IMG_2165.jpg](/images-blog/IMG_2165.jpg)
+![IMG_2165.jpg](/images-blog/old-blogs/IMG_2165.jpg)
 
 So weit ist es schon gekommen...
 

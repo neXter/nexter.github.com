@@ -4,7 +4,7 @@ category: blog
 title: Schilder, die ich nicht verstehe...
 ---
 
-![](h/images-blog/marlena_IMGP4345.jpg)
+![](h/images-blog/old-blogs/marlena_IMGP4345.jpg)
 
 * Wann? 25.10.2003
 * Wo? Ortsausgang und kurz vor dem Ortseingang von Rusbend
