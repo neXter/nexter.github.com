@@ -7,7 +7,7 @@ title: pieter.cc
 
 	<section>
 		<h2>San Francisco 2013</h2>
-		1 week vacation + GDC 2013
+		16.03. bis 29.3. 2013, erst 1 Woche Urlaub, danach eine Woche auf der GDC.
 	</section>
 	<section>
 			<table>
