@@ -1,11 +1,12 @@
 permalink: /:year/:month/:day/:title
 exclude: ["gitignore", ".rvmrc", ".rbenv-version", "README.md"]
 auto: true
-markdown: kramdown
+markdown: redcarpet
 pygments: true
 production_url : http://pieter.cc
 paginate: 2
-
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
 kramdown:
   coderay:
     coderay_line_numbers: ''
