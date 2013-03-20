@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v2
 title: In einer Nacht Mitte März 2003
 ---
 

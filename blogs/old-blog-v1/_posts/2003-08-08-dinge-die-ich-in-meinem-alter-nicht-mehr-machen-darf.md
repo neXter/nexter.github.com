@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: Dinge, die ich in meinem Alter nicht mehr machen darf...
 ---
 

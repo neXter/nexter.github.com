@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: JAXRWS - Registring Java WebServices with UDDI or ebXML
 ---
 

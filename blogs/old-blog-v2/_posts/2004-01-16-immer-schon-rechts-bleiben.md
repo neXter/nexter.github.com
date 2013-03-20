@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v2
 title: Immer sch&ouml;n rechts bleiben...
 ---
 

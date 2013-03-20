@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v2
 title: Mainzelmännchen im neuen look
 ---
 

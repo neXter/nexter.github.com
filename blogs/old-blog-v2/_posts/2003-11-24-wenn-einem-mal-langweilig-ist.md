@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v2
 title: Wenn einem mal langweilig ist...
 ---
 

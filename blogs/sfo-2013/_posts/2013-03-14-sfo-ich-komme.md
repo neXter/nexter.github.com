@@ -1,10 +1,7 @@
 ---
 layout: post
-comments: true
-date: 2013-03-14 12:00:00
-slug: sfo-ich-komme
+category: sfo-2013
 title: Bald geht's los
-category: blog
 ---
 
 SFO, ich komme!

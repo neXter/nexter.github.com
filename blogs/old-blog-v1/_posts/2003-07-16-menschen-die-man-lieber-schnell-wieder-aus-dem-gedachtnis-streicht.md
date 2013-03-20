@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: Menschen, die man lieber schnell wieder aus dem Gedächtnis streicht
 ---
 

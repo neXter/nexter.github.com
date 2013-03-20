@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: Da hat es aber jemand ganz schön nötig...
 ---
 

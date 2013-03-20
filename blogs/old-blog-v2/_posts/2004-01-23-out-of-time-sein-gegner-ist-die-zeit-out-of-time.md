@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v2
 title: Out of Time - Sein Gegner ist die Zeit (Out of Time)
 ---
 

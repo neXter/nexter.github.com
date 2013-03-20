@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: Anblicke, die ich nicht missen möchte...
 ---
 

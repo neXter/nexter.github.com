@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: 10 Things I Hate About Star Trek
 ---
 

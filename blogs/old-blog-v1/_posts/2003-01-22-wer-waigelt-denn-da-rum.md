@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: Wer Waigelt denn da rum... 
 ---
 

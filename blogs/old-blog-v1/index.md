@@ -8,7 +8,8 @@ title: pieter.cc
 	<section>
 		<h2>My very first blog</h2>
 		<p>Developed in 30min during a lecture</p>
-		<img src="screenshot.png" width="240" style="border: 1px solid #000; padding: 2px;" /><br/><small><em>Screenshot</em></small>
+		<img src="screenshot.png" width="240" style="border: 1px solid #000; padding: 2px;" /><br/>
+		<small><em>Screenshot</em></small>
 	</section>
 	<section>
 		<h4>Archived entries</h4>

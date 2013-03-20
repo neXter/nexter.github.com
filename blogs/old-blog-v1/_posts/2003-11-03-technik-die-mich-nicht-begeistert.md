@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: old-blog-v1
 title: Technik, die mich nicht begeistert...
 ---
 
