@@ -10,9 +10,17 @@ title: pieter.cc
 		Backpacking for four weeks
 	</section>
 	<section>
-			<table>
-			{% for post in site.categories.canada %}
-			<tr><td><small>{{ post.date | date_to_long_string }}</small></td><td> &#160; <a href="{{ post.url }}">{{ post.title }}</a></td></tr>{% endfor %}
-			</table>
+		{% for post in site.categories.canada %}
+		    {% unless post.next %}
+      			{{ post.date | date_to_long_string }}<br/>
+    		{% else %}
+    		  {% capture day %}{{ post.date | date: '%D' }}{% endcapture %}
+    		  {% capture nday %}{{ post.next.date | date: '%D' }}{% endcapture %}
+    		  {% if day != nday %}
+				<br/>{{ post.date | date_to_long_string }}<br/>
+    		  {% endif %}
+    		{% endunless %}
+		<a href="{{ post.url }}">{{ post.title }}</a><br/>
+		{% endfor %}
 	</section>
 </div>

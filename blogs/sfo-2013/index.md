@@ -10,9 +10,17 @@ title: pieter.cc
 		16.03. bis 29.3. 2013, erst 1 Woche Urlaub, danach eine Woche auf der GDC.
 	</section>
 	<section>
-			<table>
-			{% for post in site.categories.sfo-2013 %}
-			<tr><td><small>{{ post.date | date_to_long_string }}</small></td><td> &#160; <a href="{{ post.url }}">{{ post.title }}</a></td></tr>{% endfor %}
-			</table>
+		{% for post in site.categories.sfo-2013 %}
+		    {% unless post.next %}
+      			{{ post.date | date_to_long_string }}<br/>
+    		{% else %}
+    		  {% capture day %}{{ post.date | date: '%D' }}{% endcapture %}
+    		  {% capture nday %}{{ post.next.date | date: '%D' }}{% endcapture %}
+    		  {% if day != nday %}
+				<br/>{{ post.date | date_to_long_string }}<br/>
+    		  {% endif %}
+    		{% endunless %}
+		<a href="{{ post.url }}">{{ post.title }}</a><br/>
+		{% endfor %}
 	</section>
 </div>
