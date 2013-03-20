@@ -34,7 +34,7 @@ title: pieter.cc
 		<h3>Projects</h3>
 		<table>
 			<tr>
-				<td width="80"><img src="https://raw.github.com/neXter/IDFA/master/Icon.png"></td>
+				<td width="80"><img src="/images/icon-idfa.png"></td>
 				<td><strong>IDFA</strong> - A small but handy utility application to help developers and users to easily access their Advertising Identifier (IDFA) for testing purposes. &raquo; <a href="https://github.com/neXter/idfa">GitHub Project</a></td>
 			</tr>
 	</section>
