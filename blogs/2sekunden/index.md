@@ -12,6 +12,7 @@ title: pieter.cc
 	</section>
 	<section>
 		<h4>Archived entries</h4>		
+		<em>to be done</em>
 		<table>
 			{% for post in site.categories.2sekunden %}
 			<tr><td><small>{{ post.date | date_to_long_string }}</small></td><td> &#160; <a href="{{ post.url }}">{{ post.title }}</a></td></tr>{% endfor %}
