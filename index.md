@@ -16,8 +16,10 @@ title: pieter.cc
 	<section>
 		<h3>Traveling</h3>
 		<table>
-			<tr><td width="80"><small>2015</small></td><td> &#160; <a href="/blogs/usa-2015/">Trip to USA</a> ({{ site.categories.usa-2015 | size }} Posts)</td></tr>
-			<tr><td><small>2013</small></td><td> &#160; <a href="/blogs/sfo-2013/">Trip to San Francisco</a> ({{ site.categories.sfo-2013 | size }} Posts)</td></tr>
+	{% comment %}
+			<tr><td><small>2015</small></td><td> &#160; <a href="/blogs/usa-2015/">Trip to USA</a> ({{ site.categories.usa-2015 | size }} Posts)</td></tr>
+	{% endcomment %}
+			<tr><td width="80"><small>2013</small></td><td> &#160; <a href="/blogs/sfo-2013/">Trip to San Francisco</a> ({{ site.categories.sfo-2013 | size }} Posts)</td></tr>
 			<tr><td><small>2009</small></td><td> &#160; <a href="/blogs/canada/">Backpacking in Canada</a> ({{ site.categories.canada | size }} Posts)</td></tr>
 		</table>
 	</section>
