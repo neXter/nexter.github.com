@@ -6,8 +6,10 @@ title: pieter.cc
 <div id="content">
 
 	<section>
+		<img align="left" src="AppIcon60x60.png">
 		<h2>1RM Tracker</h2>
 		The perfect companion app to track your CrossFit 1RM's.
+		<br clear="all">
 	</section>
 	<section>
 		<em>Currently in closed beta</em>
