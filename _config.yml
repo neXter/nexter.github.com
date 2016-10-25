@@ -3,6 +3,6 @@ permalink: pretty
 exclude: ["gitignore", ".rvmrc", ".rbenv-version", "README.md"]
 production_url : http://pieter.cc
 paginate: 2
-pygments: true
+highlighter: rouge
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
