@@ -40,5 +40,6 @@ title: pieter.cc
 				<td width="80"><img src="/images/icon-idfa.png"></td>
 				<td><strong>IDFA</strong> - A small but handy utility application to help developers and users to easily access their Apple Advertising Identifier (IDFA) for testing purposes. &raquo; <a href="https://github.com/neXter/idfa">GitHub Project</a></td>
 			</tr>
+		</table>
 	</section>
 </div>
