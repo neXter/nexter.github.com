@@ -12,8 +12,6 @@ title: pieter.cc
 		<br clear="all">
 	</section>
 	<section>
-		<em>Currently in closed beta</em>
-
 		<h3>Features</h3>
 		<ul>
 			<li>Direktes Übersetzen beliebiger Texte</li>
