@@ -31,7 +31,7 @@ title: pieter.cc
 
         <h4>1.1.0</h4>
         <ul>
-            <li>Bessere &UUml;bersetzungen</li>
+            <li>Bessere Übersetzungen</li>
             <li>Kleine Verbesserungen und Bug fixes</li>
         </ul>
 
