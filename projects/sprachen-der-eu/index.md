@@ -29,12 +29,18 @@ title: pieter.cc
 		<!-- ***************************************************************************** -->
 		<h3>Versions-History</h3>
 
-		<h4>1.0.1</h4>
+        <h4>1.1.0</h4>
+        <ul>
+            <li>Bessere &UUml;bersetzungen</li>
+            <li>Kleine Verbesserungen und Bug fixes</li>
+        </ul>
+
+        <h4>1.0.1</h4>
 		<ul>
 			<li>Kleine Verbesserungen und Bug fixes</li>
 		</ul>
 
-		<h4>1.0</h4>
+		<h4>1.0.0</h4>
 		<ul>
 			<li>Erster Release</li>
 		</ul>
