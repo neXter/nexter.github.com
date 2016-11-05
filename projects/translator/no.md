@@ -17,7 +17,7 @@ title: pieter.cc
 		<h3>Features</h3>
 		<ul>
 			<li>Direktes Übersetzen beliebiger Texte</li>
-			<li>Übersetzung in beide Sprachen</li>
+			<li>Übersetzung in beide Richtungen</li>
 			<li>Einfaches Teilen oder Kopieren der Übersetzung</li>
 			<li>Praktische Vergrößerungs-Funktion der Übersetzung, zur einfacheren Kommunikation</li>
 
