@@ -6,7 +6,7 @@ title: pieter.cc
 <div id="content">
 
 	<section>
-		<img align="left" src="app-icon.png" style="margin-right: 20px;" height="60" width="60">
+		<img align="left" src="FI_Icon@2x.png" style="margin-right: 20px;" height="60" width="60">
 		<h2>Finnisch übersetzen</h2>
 		Übersetzt Deutsch/Englisch in Finnisch
 		<br clear="all">
