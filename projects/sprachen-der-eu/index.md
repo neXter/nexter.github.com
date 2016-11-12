@@ -6,7 +6,7 @@ title: pieter.cc
 <div id="content">
 
 	<section>
-		<img align="left" src="app-icon.png" style="margin-right: 20px;" height="60" width="60">
+		<img align="left" class="appicon" src="app-icon.png" style="margin-right: 20px;" height="60" width="60">
 		<h2>Sprachen der EU</h2>
 		Übersetzt Deutsch in alle offiziellen EU Sprachen
 		<br clear="all">
