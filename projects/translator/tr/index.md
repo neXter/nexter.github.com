@@ -6,7 +6,7 @@ title: pieter.cc
 <div id="content">
 
 	<section>
-		<img align="left" src="TR_Icon@2x.png" style="margin-right: 20px;" height="60" width="60">
+		<img align="left" src="TR_Icon@2x.png" class="appicon" style="margin-right: 20px;" height="60" width="60">
 		<h2>T&uuml;rkisch &uuml;bersetzen</h2>
 		&Uuml;bersetzt Deutsch/Englisch in T&uuml;rkisch
 		<br clear="all">

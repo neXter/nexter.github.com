@@ -6,7 +6,7 @@ title: pieter.cc
 <div id="content">
 
 	<section>
-		<img align="left" src="IT_Icon@2x.png" style="margin-right: 20px;" height="60" width="60">
+		<img align="left" src="IT_Icon@2x.png" class="appicon" style="margin-right: 20px;" height="60" width="60">
 		<h2>Italienisch übersetzen</h2>
 		Übersetzt Deutsch/Englisch in Italienisch
 		<br clear="all">
