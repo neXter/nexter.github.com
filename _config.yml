@@ -1,7 +1,7 @@
 auto: true
 permalink: pretty
 exclude: ["gitignore", ".rvmrc", ".rbenv-version", "README.md"]
-production_url : http://pieter.cc
+production_url : https://pieter.cc
 paginate: 2
 highlighter: rouge
 redcarpet:
